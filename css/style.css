@@ -1,0 +1,19 @@
+body{
+	font-family: 'Montserrat', sans-serif;
+	background: #f6f6f6;
+}
+h2{
+	color: #1a284b;
+	font-size: 45px;
+}
+p{
+	color: #707070;
+	letter-spacing: .5px;
+}
+.services{
+	text-align: center;
+}
+.services_sub{
+	border: 1px solid #000;
+	background-color: #ffffff;
+}
